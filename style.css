@@ -1,0 +1,18 @@
+.cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#btn{
+    background-color: transparent;
+    border-radius: 7px;
+    border-color: rgb(red, green, blue);
+    border-width: 3px;
+    color: #6a8b9e;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor:pointer;
+}
